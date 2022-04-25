@@ -1,37 +1,14 @@
 ## Linux Programming
 
-You can use the [editor on GitHub](https://github.com/cdj6995/Linux_programming/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 1. Apache-Tomcat 연동, app deploy
+<br>
+과정
+=> apache설치(apache2) -> tomcat설치(tomcat9) / app deploy -> jdk설치(openjdk8) -> connector모듈 설치(libapache2-mod-jk) => 각 설정 변경 => index.html수정
+<br>
+[유튜브 영상]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cdj6995/Linux_programming/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 2. Oracle Weblogic 설치 및 app deploy
+<br>
+과정
+=> Oracle JDK다운 -> Weblogic 다운 -> Weblogic실행 / id,pw설정 -> MS추가 -> app deploy
