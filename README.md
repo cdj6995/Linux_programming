@@ -14,7 +14,7 @@
 과정
 => Oracle JDK다운 -> Weblogic 다운 -> Weblogic실행 / id,pw설정 -> MS추가 -> app deploy
 <br>
-##### 유튜브 영상
+###### [유튜브 영상]
 
 <iframe width="777" height="444" src="https://www.youtube.com/embed/m8omCq8TjPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,7 +25,7 @@
 과정
 => 구글클라우드에서 VM인스턴스 생성 => 방화벽 설정 => apache설치(apache2) => tomcat설치(tomcat9) / app deploy
 <br>
-##### 유튜브 영상
+###### [유튜브 영상]
 
 <iframe width="777" height="444" src="https://www.youtube.com/embed/sBePRT3Kh6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
