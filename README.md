@@ -23,5 +23,7 @@
 과정
 => 구글클라우드에서 VM인스턴스 생성 => 방화벽 설정 => apache설치(apache2) => tomcat설치(tomcat9) / app deploy
 <br>
-[유튜브 영상](https://youtu.be/sBePRT3Kh6I)
+유튜브 
+
+<iframe width="1057" height="595" src="https://www.youtube.com/embed/sBePRT3Kh6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
