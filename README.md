@@ -5,7 +5,7 @@
 과정
 => apache설치(apache2) -> tomcat설치(tomcat9) / app deploy -> jdk설치(openjdk8) -> connector모듈 설치(libapache2-mod-jk) => 각 설정 변경 => index.html수정
 <br>
-[유튜브 영상1](https://youtu.be/xTqzfpVnyG8)
+[유튜브 영상1](https://youtu.be/xTqzfpVnyG8)<br>
 [유튜브 영상2](https://youtu.be/MkbQL5UpW3w)
 
 
