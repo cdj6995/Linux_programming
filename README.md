@@ -16,7 +16,7 @@
 <br>
 ##### 유튜브 영상
 
-<iframe width="1057" height="595" src="https://www.youtube.com/embed/m8omCq8TjPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="777" height="444" src="https://www.youtube.com/embed/m8omCq8TjPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -27,5 +27,5 @@
 <br>
 ##### 유튜브 영상
 
-<iframe width="1057" height="595" src="https://www.youtube.com/embed/sBePRT3Kh6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="777" height="444" src="https://www.youtube.com/embed/sBePRT3Kh6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
